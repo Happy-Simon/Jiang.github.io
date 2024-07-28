@@ -12,7 +12,8 @@ title                    : "Jiang Z.H. / 个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Jiang Z.H."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://happy-simon.github.io/Jiang.github.io/
+# url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chengdu, China"
-  employer         : "Red Brick University"
+  employer         : "SWUFE"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zi_hao_jiang@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
