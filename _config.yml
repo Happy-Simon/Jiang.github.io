@@ -238,7 +238,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: 助教
     values:
       layout: single
       author_profile: true
